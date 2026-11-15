@@ -4,7 +4,7 @@
 
 ### Objective
 
-Build a lightweight Python-based AI Security Gateway that acts as an intermediary between an AI Agent Server and external LLM providers.
+Building a lightweight Python-based AI Security Gateway that acts as an intermediary between an AI Agent Server and external LLM providers.
 
 The gateway must inspect incoming prompts, identify sensitive information, sanitize the prompt according to configurable security policies, and forward only approved sanitized prompts to the configured LLM provider.
 
